@@ -1,4 +1,4 @@
-package com.jack.demo.concurrency.geekbang;
+package com.jack.demo.concurrency.geekbang.juctools;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
